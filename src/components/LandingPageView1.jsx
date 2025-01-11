@@ -3,7 +3,7 @@ import React from 'react';
 import { useEffect, useState } from "react";
 import { Edit2, Loader2 } from 'lucide-react';
 
-import { FaHandHoldingHeart } from "react-icons/fa6";
+import { FaHandHoldingHeart } from "react-icons/fa";
 import { MdMusicVideo } from "react-icons/md";
 
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
